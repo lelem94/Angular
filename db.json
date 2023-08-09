@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "email": "mannidaniele@proton.me",
+      "password": "$2a$10$3xdk9S9jaspFgQknu3osmeK7r8VvLswnSG6m/0SMJpwSBISCMMqGe",
+      "firstname": "Daniele",
+      "lastname": "Manni",
+      "id": 1
+    },
+    {
+      "email": "zete@mailinator.com",
+      "password": "$2a$10$3YMvzs.o.TDn/IBQw1yHne8QOrC/OytBdUv1QZw656T46sJIZ0DjS",
+      "firstname": "Wanda",
+      "lastname": "Oneil",
+      "id": 2
+    },
+    {
+      "email": "wyxyba@mailinator.com",
+      "password": "$2a$10$/gNardQh71xo6XHNVtACm.ec9j561ld4VXgHWuY817fi6Pn9nGyFq",
+      "firstname": "Erin",
+      "lastname": "Lang",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing",
+      "title": "Example Article",
+      "active": true,
+      "type": "news",
+      "author": "Daniele"
+    }
+  ]
+}
